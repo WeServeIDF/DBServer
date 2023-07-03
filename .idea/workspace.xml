@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b8468ae-565c-4707-991f-6805b59e367c" name="Changes" comment="" />
+    <list default="true" id="8b8468ae-565c-4707-991f-6805b59e367c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requierments" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/create_tables.py" beforeDir="false" afterPath="$PROJECT_DIR$/create_tables.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/cwallet.sso" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/ewallet.p12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/ewallet.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/keystore.jks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/ojdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/sqlnet.ora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/tnsnames.ora" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wallet/truststore.jks" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,5 +72,16 @@
       <updated>1688387527044</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

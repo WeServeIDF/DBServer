@@ -3,7 +3,9 @@ import oracledb
 connection = oracledb.connect(
     user="ADMIN",
     password='wgY+J3W9vHiH',
-    wallet_location=r'C:\Users\זהר\Desktop\DBServerGit\DBServer\wallet')  #
+    dsn='(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)('
+        'host=adb.il-jerusalem-1.oraclecloud.com))(connect_data=('
+        'service_name=g12fc03653f2590_weserve_low.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)))')  #
 # the connection string copied from the cloud console
 
 print("Successfully connected to Oracle Database")
